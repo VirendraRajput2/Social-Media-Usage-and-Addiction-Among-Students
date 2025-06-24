@@ -183,8 +183,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact & Support
 
 **Author**: [Your Name]
-- **Email**: [amittiwari2122@gmail.com]
-- **LinkedIn**: [Your LinkedIn Profile]
+- **Email**: [virendrarajput041@gmail.com]
+- **LinkedIn**: [https://www.linkedin.com/in/virendrarajput2/]
 
 
 **Project Link**: [https://github.com/yourusername/social-media-addiction-study](https://github.com/yourusername/social-media-addiction-study)
